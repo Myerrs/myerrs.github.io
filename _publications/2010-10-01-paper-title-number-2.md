@@ -2,7 +2,7 @@
 title: "A Polarized 3He System Based on Metastability‑Exchange Optical Pumping"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publications/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-06-14
 venue: 'Science China Physics, Mechanics & Astronomy'

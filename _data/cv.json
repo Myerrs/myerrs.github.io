@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Liangyong Wu",
+    "email": "22110200026@m.fudan.edu.cn",
+    "phone": "17693293742",
+    "website": "https://myerrs.github.io",
+    "summary": "Currently employed at Fudan University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "China",
+      "countryCode": "Shanghai",
       "region": ""
     },
     "profiles": [
@@ -21,41 +21,41 @@
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "http://orcid.org/0009-0003-7568-008X"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Myerrs",
+        "url": "https://github.com/Myerrs"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Fudan University",
+      "area": "Ph.D in Particle and Nuclear Physics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2022",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Graduate School of China Academic of Engineering Physics",
+      "area": "M.S. in Nuclear Technology and Application",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2020",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Lanzhou University",
+      "area": "B.S. in Radiation Proection and Nuclear Safety",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2016",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     }
