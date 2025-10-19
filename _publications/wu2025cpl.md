@@ -1,5 +1,6 @@
 ---
-title: "Closed-Loop Control of \\(^3\\)He Nuclear Spin Oscillator: Implementation via Metastability Exchange Optical Pumping (MEOP)"
+title: |
+    Closed-Loop Control of \\(^3\\)He Nuclear Spin Oscillator: Implementation via Metastability Exchange Optical Pumping (MEOP)
 collection: publications
 category: manuscripts
 permalink: /publications/wu2025cpl

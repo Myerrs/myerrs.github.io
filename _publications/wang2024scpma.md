@@ -1,5 +1,6 @@
 ---
-title: "A Polarized \\(^3\\)He System Based on Metastability‑Exchange Optical Pumping"
+title: |
+    A Polarized \\(^3\\)He System Based on Metastability‑Exchange Optical Pumping
 collection: publications
 category: manuscripts
 permalink: /publications/wang2024scpma
