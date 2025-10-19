@@ -17,7 +17,7 @@ excerpt: |
     magnetic field measurements.
 date: 2025-10-13
 venue: 'Chinese Physics Letters'
-paperurl: 'http://academicpages.github.io/files/wu2025cpl.pdf'
+paperurl: 'http://myerrs.github.io/files/wu2025cpl.pdf'
 bibtexurl: 'https://myerrs.github.io/files/wu2025cpl.bib'
 citation: "Liangyong Wu, Changbo Fu, Haiyang Yan. Closed-Loop Control of \\(^3\\)He Nuclear Spin Oscillator: Implementation via Metastability Exchange Optical Pumping (MEOP)[J]. Chin. Phys. Lett."
 ---
