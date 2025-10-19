@@ -15,7 +15,6 @@ excerpt: |
     spin oscillators, especially in low-frequency domains. The operational simplicity and easy integra-
     tion associated with MEOP-based systems make them particularly promising for fast, high-precision
     magnetic field measurements.
-
 date: 2025-10-13
 venue: 'Chinese Physics Letters'
 paperurl: 'http://academicpages.github.io/files/wu2025cpl.pdf'
