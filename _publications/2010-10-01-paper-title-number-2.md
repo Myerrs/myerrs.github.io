@@ -6,8 +6,9 @@ permalink: /publications/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-06-14
 venue: 'Science China Physics, Mechanics & Astronomy'
-slidesurl: 'http://academicpages.github.io/files/slide_wang2024scpma.png'
-paperurl: 'http://academicpages.github.io/files/wang2024scpma.pdf'
+slidesurl: 'https://myerrs.github.io/files/slide_wang2024scpma.png'
+paperurl: 'https://myerrs.github.io/files/wang2024scpma.pdf'
+bibtexurl: 'https://myerrs.github.io/files/zhang2025.bib'
 citation: 'Yuting Wang, Liangyong Wu, Kaiyuan Zhang, Mei Peng, Siyu Chen, Haiyang Yan, A Polarized 3He System Based on Metastability‑Exchange Optical Pumping, Science China Physics, Mechanics & Astronomy. 67 (2024) 273011.'
 ---
 
