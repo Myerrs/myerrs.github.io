@@ -3,7 +3,7 @@ title: "New limits on ultralight axionlike dark matter from reanalyzed data"
 collection: publications
 category: manuscripts
 tags: [axion, ultralow-mass, CPT, Lorentz, neutron-beams]
-permalink: /publications/2009-10-01-paper-title-number-1
+permalink: /publications/zhang2025prl
 excerpt: |
   New limits on the axion-nucleon coupling over the axion mass region 
   \\(10^{-24} \le m_a \le 5 \times 10^{-21}\ \mathrm{eV}\\) are derived by reanalyzing data from laboratory measurements on Lorentz and CPT violations.
@@ -15,9 +15,8 @@ excerpt: |
   For an alternative type of axion-nucleon interaction, the quadratic wind coupling, the constraints exceed the current best results by approximately two orders of magnitude.
 date: 2025-09-23
 venue: 'Physical Review Letters'
-slidesurl: 'https://myerrs.github.io/files/silde_zhang2025prl.png'
+# slidesurl: 'https://myerrs.github.io/files/zhang2025prl.pdf'
 paperurl: 'https://myerrs.github.io/files/zhang2025prl.pdf'
 bibtexurl: 'https://myerrs.github.io/files/zhang2025prl.bib'
 citation: 'K. Y. Zhang, L. Y. Wu, H. Yan, New limits on ultralight axionlike dark matter from reanalyzed data, Physical Review Letters. 135 (2025) 131001.'
-mathjax: true
 ---
