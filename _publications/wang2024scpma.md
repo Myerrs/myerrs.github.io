@@ -10,5 +10,6 @@ venue: 'Science China Physics, Mechanics & Astronomy'
 # slidesurl: 'https://myerrs.github.io/files/wang2024scpma.pdf'
 paperurl: 'https://myerrs.github.io/files/wang2024scpma.pdf'
 bibtexurl: 'https://myerrs.github.io/files/wang2024scpma.bib'
-citation: 'Yuting Wang, Liangyong Wu, Kaiyuan Zhang, Mei Peng, Siyu Chen, Haiyang Yan, A Polarized \\(^3\\)He System Based on Metastability‑Exchange Optical Pumping, Science China Physics, Mechanics & Astronomy. 67 (2024) 273011.'
+citation: |
+    Yuting Wang, Liangyong Wu, Kaiyuan Zhang, Mei Peng, Siyu Chen, Haiyang Yan, A Polarized \(^3\)He System Based on Metastability‑Exchange Optical Pumping, Science China Physics, Mechanics & Astronomy. 67 (2024) 273011.
 ---
