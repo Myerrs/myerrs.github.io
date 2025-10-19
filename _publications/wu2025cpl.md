@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Closed-Loop Control of \\(^3\\)He Nuclear Spin Oscillator: Implementation via Metastability Exchange Optical Pumping (MEOP)"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publications/wu2025cpl
 excerpt: |
     Achieving long spin coherence times is crucial for quantum precision measurements, and closed-
@@ -19,6 +19,6 @@ date: 2025-10-13
 venue: 'Chinese Physics Letters'
 paperurl: 'http://academicpages.github.io/files/wu2025cpl.pdf'
 bibtexurl: 'https://myerrs.github.io/files/wu2025cpl.bib'
-citation: 'Liangyong Wu, Changbo Fu, Haiyang Yan. Closed-Loop Control of 3He Nuclear Spin Oscillator: Implementation via Metastability Exchange Optical Pumping (MEOP)[J]. Chin. Phys. Lett.'
+citation: "Liangyong Wu, Changbo Fu, Haiyang Yan. Closed-Loop Control of \\(^3\\)He Nuclear Spin Oscillator: Implementation via Metastability Exchange Optical Pumping (MEOP)[J]. Chin. Phys. Lett."
 ---
 
