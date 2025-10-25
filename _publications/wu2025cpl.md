@@ -3,7 +3,7 @@ title: |
     Closed-Loop Control of \\(^3\\)He Nuclear Spin Oscillator: Implementation via Metastability Exchange Optical Pumping (MEOP)
 collection: publications
 category: manuscripts
-permalink: /publications/
+permalink: /publications/wu2025cpl
 excerpt: |
     Achieving long spin coherence times is crucial for quantum precision measurements, and closed-
     loop control techniques are often employed to accomplish this goal. Here, we demonstrate the

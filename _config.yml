@@ -197,16 +197,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   activities:
-    output: true
+    output: off
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: off
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: off
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: off
     permalink: /:collection/:path/
 
 
