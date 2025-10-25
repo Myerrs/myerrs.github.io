@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: ""
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div style="text-align: center;">
-    <h2>My Curriculum Vitae</h2>
+    <!-- <h2>My Curriculum Vitae</h2> -->
     <iframe 
         src="/files/CV.pdf" 
         style="width:100%; height:1200px; border:none;" 
