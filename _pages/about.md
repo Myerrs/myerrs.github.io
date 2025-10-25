@@ -90,11 +90,7 @@ My Research Interests
 }
 
 .content {
-    position: absolute;
-    bottom: 0;               /* 靠下 */
-    left: 50%;               /* 居中点 */
-    transform: translateX(-50%); /* 水平居中 */
-    height: 100px;           /* 固定高度 */
+    height: 25%;           /* 固定高度 */
     padding: 15px;
     text-align: center;
     font-weight: 500;
