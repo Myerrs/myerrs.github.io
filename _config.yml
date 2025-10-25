@@ -230,10 +230,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _activities
   - scope:
       path: ""
-      type: teaching
+      type: activities
     values:
       layout: single
       author_profile: true
