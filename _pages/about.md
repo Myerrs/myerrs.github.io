@@ -63,8 +63,8 @@ My Research Interests
 }
 
 .ratio-item {
-    position: relative; /* ⭐ 添加这一行 */
     flex: 0 0 400px;
+    height: 400px;
     background: white;
     border-radius: 10px;
     overflow: hidden;
@@ -73,7 +73,8 @@ My Research Interests
 
 .image-container {
     height: 75%;
-    aspect-ratio: 1:1; 
+    width: 100%;
+    /* aspect-ratio: 1:1;  */
     overflow: hidden;
 }
 
