@@ -63,7 +63,7 @@ My Research Interests
 }
 
 .ratio-item {
-    flex: 0 0 300px;
+    flex: 0 0 400px;
     background: white;
     border-radius: 10px;
     overflow: hidden;
@@ -72,8 +72,8 @@ My Research Interests
 
 /* 关键：使用 aspect-ratio 保持宽高比 */
 .image-container {
-    width: 100%;
-    aspect-ratio: 16/9; /* 宽高比 4:3 */
+    width: 98%;
+    /* aspect-ratio: 16/9; 宽高比 4:3 */
     overflow: hidden;
 }
 
