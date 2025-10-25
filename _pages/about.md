@@ -71,14 +71,14 @@ My Research Interests
 }
 
 .image-container {
-    width: 98%;
-    aspect-ratio: 1:1;
+    width: 100%;
+    aspect-ratio: 1:1; 
     overflow: hidden;
 }
 
 .image-container img {
-    width: 98%;
-    height: 98%;
+    width: 99%;
+    height: 99%;
     object-fit: cover;
     object-position: center;
     transition: transform 0.3s ease;
@@ -89,14 +89,12 @@ My Research Interests
 }
 
 .content {
-    position: absolute;
-    bottom: 0; /* 紧贴底部 */
-    left: 0;
-    right: 0;
-    padding: 20px 15px;
+    height: 45px;
+    padding: 15px;
     text-align: center;
-    background: white; /* 确保背景色一致 */
-    border-top: 1px solid #f0f0f0;
+    font-weight: 500;
+    color: #495057;
+    flex-shrink: 0;
 }
 </style>
 
