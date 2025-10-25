@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.jpeg"
   name             : "Liangyong Wu"
-  pronouns         : "He"  
+  # pronouns         : "He"  
   bio              : "Ph. D. Candidate"
   location         : "China"
   employer         : "Fudan University"
@@ -196,7 +196,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  activities:
     output: true
     permalink: /:collection/:path/
   publications:
