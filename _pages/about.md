@@ -63,7 +63,7 @@ My Research Interests
 }
 
 .ratio-item {
-    flex: 0 0 400px;
+    flex: 0 1 400px;
     background: white;
     border-radius: 10px;
     overflow: hidden;
@@ -78,8 +78,8 @@ My Research Interests
 }
 
 .image-container img {
-    width: 100%;
-    height: 100%;
+    width: 98%;
+    height: 98%;
     object-fit: cover;
     object-position: center;
     transition: transform 0.3s ease;
