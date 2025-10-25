@@ -83,8 +83,8 @@ My Research Interests
     padding: 15px;
     text-align: center;
     display: flex;
-    flex-direction: column;
-    font-weight: 750;
+    flex-direction: row;
+    font-weight: 500;
     color: #495057;
     justify-content: flex-end;
 }
