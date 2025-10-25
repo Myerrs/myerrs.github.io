@@ -63,17 +63,16 @@ My Research Interests
 }
 
 .ratio-item {
-    flex: 0 1 400px;
+    flex: 0 0 400px;
     background: white;
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 3px 10px rgba(255, 255, 255, 0);
 }
 
-/* 关键：使用 aspect-ratio 保持宽高比 */
 .image-container {
     width: 98%;
-    /* aspect-ratio: 16/9; 宽高比 4:3 */
+    aspect-ratio: 16/9; 宽高比 4:3 */
     overflow: hidden;
 }
 
@@ -94,6 +93,15 @@ My Research Interests
     text-align: center;
     font-weight: 500;
     color: #495057;
+    flex-shrink: 0;
+}
+  
+.image-title {
+    margin-top: 10px;
+    font-size: 1.1em;
+    font-weight: 600;
+    color: #333;
+    text-align: center;
 }
 </style>
 
