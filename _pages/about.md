@@ -19,55 +19,72 @@ Feel free to explore and join me on this journey through science and life!
 My Research Interests
 ======
 
-<div class="simple-gallery">
-    <div class="gallery-item">
-        <img src="/images/fifth_force.png" alt="research_1">
-        <div class="caption">Fifth forces by the SM</div>
-    </div>
-    <div class="gallery-item">
-        <img src="/images/meop.png" alt="research_2">
-        <div class="caption">MEOP \\(^3\\)He</div>
+<div class="ratio-gallery">
+    <div class="gallery-scroll">
+        <div class="ratio-item">
+            <div class="image-container">
+                <img src="/images/fifth_force.png" alt="fig1">
+            </div>
+            <div class="content">Fifth forces</div>
+        </div>
+        <div class="ratio-item">
+            <div class="image-container">
+                <img src="/images/meop.png" alt="fig2">
+            </div>
+            <div class="content">MEOP \(^3\)He</div>
+        </div>
     </div>
 </div>
 
 <style>
-.simple-gallery {
+.ratio-gallery {
+    margin: 2rem 0;
+}
+
+.gallery-scroll {
     display: flex;
     overflow-x: auto;
-    gap: 15px;
-    padding: 15px;
+    gap: 20px;
+    padding: 20px;
     background: #f8f9fa;
-    border-radius: 8px;
-    margin: 20px 0;
+    border-radius: 12px;
 }
 
-.simple-gallery::-webkit-scrollbar {
-    height: 8px;
+.ratio-item {
+    flex: 0 0 300px;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
 }
 
-.simple-gallery::-webkit-scrollbar-thumb {
-    background: #adb5bd;
-    border-radius: 4px;
-}
-
-.gallery-item {
-    flex: 0 0 250px;
-    text-align: center;
-}
-
-.gallery-item img {
+/* 关键：使用 aspect-ratio 保持宽高比 */
+.image-container {
     width: 100%;
-    height: 150px;
-    object-fit: cover;
-    border-radius: 6px;
+    aspect-ratio: 4/3; /* 宽高比 4:3 */
+    overflow: hidden;
 }
 
-.caption {
-    margin-top: 8px;
+.image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    transition: transform 0.3s ease;
+}
+
+.ratio-item:hover .image-container img {
+    transform: scale(1.05);
+}
+
+.content {
+    padding: 15px;
+    text-align: center;
     font-weight: 500;
     color: #495057;
 }
 </style>
+
 
 News
 ======
