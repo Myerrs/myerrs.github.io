@@ -72,7 +72,7 @@ My Research Interests
 
 .image-container {
     width: 98%;
-    aspect-ratio: 1:1; 宽高比 4:3 */
+    aspect-ratio: 1:1;
     overflow: hidden;
 }
 
@@ -89,10 +89,12 @@ My Research Interests
 }
 
 .content {
-    padding: 15px;
+    margin-top: auto;
+    padding: 20px 15px;
     text-align: center;
     font-weight: 500;
     color: #495057;
+    border-top: 1px solid #f0f0f0; /* 可选分隔线 */
     flex-shrink: 0;
 }
 </style>
