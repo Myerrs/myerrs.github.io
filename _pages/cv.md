@@ -10,19 +10,19 @@ redirect_from:
 {% include base_path %}
 
 <div style="text-align: center;">
-    <h2>Personal Curriculum Vitae</h2>
+    <h2>My Curriculum Vitae</h2>
     <iframe 
         src="/files/CV.pdf" 
         style="width:100%; height:800px; border:none;" 
-        title="我的个人简历">
+        title="My Curriculum Vitae">
         <p>
-            您的浏览器不支持 PDF 嵌入。请点击以下链接下载查看：
-            <a href="/files/CV.pdf" target="_blank">下载我的简历</a>
+            Your browser does not support PDF embedding. Please click the following link to download and view: 
+            <a href="/files/CV.pdf" target="_blank">Download my Vitae</a>
         </p>
     </iframe>
     
     <p>
-        <a href="/files/CV.pdf" target="_blank" download>点击此处下载简历 (PDF)</a>
+        <a href="/files/CV.pdf" target="_blank" download>Click here to download (PDF)</a>
     </p>
 </div>
 
