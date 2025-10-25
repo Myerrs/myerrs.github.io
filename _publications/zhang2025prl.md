@@ -3,7 +3,7 @@ title: "New limits on ultralight axionlike dark matter from reanalyzed data"
 collection: publications
 category: manuscripts
 tags: [axion, ultralow-mass, CPT, Lorentz, neutron-beams]
-permalink: /publications/zhang2025prl
+# permalink: /publications/zhang2025prl
 excerpt: |
   New limits on the axion-nucleon coupling over the axion mass region 
   \\(10^{-24} \le m_a \le 5 \times 10^{-21}\ \mathrm{eV}\\) are derived by reanalyzing data from laboratory measurements on Lorentz and CPT violations.
