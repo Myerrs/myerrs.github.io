@@ -19,6 +19,55 @@ Feel free to explore and join me on this journey through science and life!
 My Research Interests
 ======
 
+<div class="simple-gallery">
+    <div class="gallery-item">
+        <img src="/images/fifth_force.png" alt="research_1">
+        <div class="caption">Fifth forces by the SM</div>
+    </div>
+    <div class="gallery-item">
+        <img src="/images/meop.png" alt="research_2">
+        <div class="caption">MEOP \\(^3\\)He</div>
+    </div>
+</div>
+
+<style>
+.simple-gallery {
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
+    padding: 15px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+.simple-gallery::-webkit-scrollbar {
+    height: 8px;
+}
+
+.simple-gallery::-webkit-scrollbar-thumb {
+    background: #adb5bd;
+    border-radius: 4px;
+}
+
+.gallery-item {
+    flex: 0 0 250px;
+    text-align: center;
+}
+
+.gallery-item img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+.caption {
+    margin-top: 8px;
+    font-weight: 500;
+    color: #495057;
+}
+</style>
 
 News
 ======
