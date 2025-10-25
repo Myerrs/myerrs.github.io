@@ -51,8 +51,8 @@ My Research Interests
 }
 
 .ratio-item {
-    flex: 0 0 400px;
-    height: 400px;
+    flex: 0 0 300px;
+    height: 300px;
     background: white;
     border-radius: 10px;
     overflow: hidden;
@@ -82,11 +82,8 @@ My Research Interests
     height: 25%;           /* 固定高度 */
     padding: 15px;
     text-align: center;
-    display: flex;
-    flex-direction: row;
     font-weight: 500;
     color: #495057;
-    justify-content: flex-end;
 }
 </style>
 
