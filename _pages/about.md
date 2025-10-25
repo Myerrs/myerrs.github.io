@@ -33,18 +33,6 @@ My Research Interests
             </div>
             <div class="content">MEOP \(^3\)He</div>
         </div>
-        <div class="ratio-item">
-            <div class="image-container">
-                <img src="/images/meop.png" alt="fig3">
-            </div>
-            <div class="content">MEOP \(^3\)He</div>
-        </div>
-        <div class="ratio-item">
-            <div class="image-container">
-                <img src="/images/meop.png" alt="fig4">
-            </div>
-            <div class="content">MEOP \(^3\)He</div>
-        </div>
     </div>
 </div>
 
@@ -79,8 +67,8 @@ My Research Interests
 }
 
 .image-container img {
-    width: 99%;
-    height: 99%;
+    width: 98%;
+    height: 98%;
     object-fit: cover;
     object-position: center;
     transition: transform 0.3s ease;
@@ -94,8 +82,11 @@ My Research Interests
     height: 25%;           /* 固定高度 */
     padding: 15px;
     text-align: center;
-    font-weight: 500;
+    display: flex;
+    flex-direction: column;
+    font-weight: 750;
     color: #495057;
+    justify-content: flex-end;
 }
 </style>
 
