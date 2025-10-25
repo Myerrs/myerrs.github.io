@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
 <div style="text-align: center;">
     <h2>Personal Curriculum Vitae</h2>
     <iframe 
