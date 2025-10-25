@@ -63,6 +63,7 @@ My Research Interests
 }
 
 .ratio-item {
+    position: relative; /* ⭐ 添加这一行 */
     flex: 0 0 400px;
     background: white;
     border-radius: 10px;
