@@ -89,13 +89,14 @@ My Research Interests
 }
 
 .content {
-    margin-top: auto;
+    position: absolute;
+    bottom: 0; /* 紧贴底部 */
+    left: 0;
+    right: 0;
     padding: 20px 15px;
     text-align: center;
-    font-weight: 500;
-    color: #495057;
-    border-top: 1px solid #f0f0f0; /* 可选分隔线 */
-    flex-shrink: 0;
+    background: white; /* 确保背景色一致 */
+    border-top: 1px solid #f0f0f0;
 }
 </style>
 
