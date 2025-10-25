@@ -33,6 +33,18 @@ My Research Interests
             </div>
             <div class="content">MEOP \(^3\)He</div>
         </div>
+        <div class="ratio-item">
+            <div class="image-container">
+                <img src="/images/meop.png" alt="fig3">
+            </div>
+            <div class="content">MEOP \(^3\)He</div>
+        </div>
+        <div class="ratio-item">
+            <div class="image-container">
+                <img src="/images/meop.png" alt="fig4">
+            </div>
+            <div class="content">MEOP \(^3\)He</div>
+        </div>
     </div>
 </div>
 
@@ -46,7 +58,7 @@ My Research Interests
     overflow-x: auto;
     gap: 20px;
     padding: 20px;
-    background: #f8f9fa;
+    background: rgba(255, 255, 255, 0);
     border-radius: 12px;
 }
 
@@ -55,13 +67,13 @@ My Research Interests
     background: white;
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    box-shadow: 0 3px 10px rgba(255, 255, 255, 0);
 }
 
 /* 关键：使用 aspect-ratio 保持宽高比 */
 .image-container {
     width: 100%;
-    aspect-ratio: 4/3; /* 宽高比 4:3 */
+    aspect-ratio: 16/9; /* 宽高比 4:3 */
     overflow: hidden;
 }
 
