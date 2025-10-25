@@ -1,9 +1,11 @@
 ---
-title: "Progress in MEOP based \\(^3\\)He Polarization System"
+title: |
+    Progress in MEOP based \\(^3\\)He Polarization System
 collection: talks
 type: "Talk"
 permalink: /talks/pncmi2025
-excerpt: "Recent Progress in developing the \\(^3\\)He polarizaiton system based on MEOP"
+excerpt: |
+    Recent Progress in developing the \\(^3\\)He polarizaiton system based on MEOP
 venue: "PNCMI2025"
 venueurl: "https://indico.ihep.ac.cn/event/22771/"
 date: 2025-02-23
