@@ -73,7 +73,7 @@ My Research Interests
 
 .image-container {
     height: 75%;
-    aspect-ratio: 4:3; 
+    aspect-ratio: 1:1; 
     overflow: hidden;
 }
 
