@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,7 +13,7 @@ redirect_from:
     <h2>My Curriculum Vitae</h2>
     <iframe 
         src="/files/CV.pdf" 
-        style="width:100%; height:800px; border:none;" 
+        style="width:100%; height:1200px; border:none;" 
         title="My Curriculum Vitae">
         <p>
             Your browser does not support PDF embedding. Please click the following link to download and view: 
